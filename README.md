@@ -1,4 +1,5 @@
 # A Coursework
+Made a few modifications.
 
 # Learning Based Infinite Terrain Generation with Level of Detailing
 
