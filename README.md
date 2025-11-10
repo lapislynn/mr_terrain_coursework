@@ -1,3 +1,5 @@
+# A Coursework
+
 # Learning Based Infinite Terrain Generation with Level of Detailing
 
 Aryamaan Jain, Avinash Sharma, K S Rajan  
